@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.inputs{
+    border:1px solid black;
+    border-radius: 10px;
+    width:200px;   
+    background-color: gray;
+
+}
+.button_con{
+    display: flex;
+   justify-content: center;
+    flex-wrap: wrap;
+}
+.buttons{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    margin: 6px;
+}
+#display{
+    margin:10px;
+    width: 85%;
+    font-size: 25px;
+    border-radius: 7px;
+}
